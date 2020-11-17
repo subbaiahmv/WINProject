@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "address": "Baghdad",
+      "email": "vicente@gmail.com",
+      "mobile_number": "9756238962",
+      "name": "Vicente",
+      "password": "vicente",
+      "username": "Vicente",
+      "role_id": 3,
+      "roleno": "Eng 01"
+    },
+    {
+      "id": 2,
+      "address": "Los Angeles",
+      "email": "constanza@gmail.com",
+      "mobile_number": "9563289415",
+      "name": "Constanza",
+      "password": "constanza",
+      "username": "Constanza",
+      "role_id": 3,
+      "roleno": "Eng 02"
+    },
+    {
+      "id": 3,
+      "address": "Banjul",
+      "email": "jose@gmail.com",
+      "mobile_number": "9655384169",
+      "name": "Jose",
+      "password": "jose",
+      "username": "Jose",
+      "roleno": "Eng 03",
+      "role_id": 3
+    },
+    {
+      "id": 4,
+      "address": "Campinas",
+      "email": "valentina@gmail.com",
+      "mobile_number": "9968425631",
+      "name": "Valentina",
+      "password": "valentina",
+      "username": "Valentina",
+      "role_id": 3,
+      "roleno": "Eng 04"
+    },
+    {
+      "id": 5,
+      "address": "Houston",
+      "email": "juan@gmail.com",
+      "mobile_number": "9966713499",
+      "name": "Juan",
+      "password": "juan",
+      "username": "Juan",
+      "role_id": 3,
+      "roleno": "Eng 05"
+    },
+    {
+      "id": 6,
+      "address": "Bandung",
+      "email": "cristobal@gmail.com",
+      "mobile_number": "9886557236",
+      "name": "Cristobal",
+      "password": "cristobal",
+      "username": "Cristobal",
+      "role_id": 3,
+      "roleno": "Eng 06"
+    }
+  ]
